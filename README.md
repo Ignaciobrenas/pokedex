@@ -1,8 +1,8 @@
-# **📚 Pokédex Project / Proyecto Pokédex**
+# ** Pokédex Project / Proyecto Pokédex**
 
 ***
 
-## **✨ Description / Descripción**
+## ** Description / Descripción**
 
 **EN:**  
 Java application that simulates a Pokédex for Pokémon trainers. It features an interactive menu to add, delete, search, and display Pokémon, plus advanced options like **Hack Pokédex** (convert all Pokémon to Ditto) and full database reset. Includes error handling for duplicates and invalid positions.
@@ -12,7 +12,7 @@ Aplicación en Java que simula una Pokédex para entrenadores Pokémon. Incluye 
 
 ***
 
-## **🔑 Key Features / Características principales**
+## ** Key Features / Características principales**
 
 *   ✅ **Add Pokémon at specific positions** / Añadir Pokémon en posiciones específicas
 *   ✅ **Search and display all Pokémon** / Buscar y mostrar todos los Pokémon
@@ -21,7 +21,7 @@ Aplicación en Java que simula una Pokédex para entrenadores Pokémon. Incluye 
 
 ***
 
-## **🛠️ Installation / Instalación**
+## ** Installation / Instalación**
 
 ```bash
 # Clone the repository / Clonar el repositorio
@@ -39,13 +39,13 @@ java Main
 
 ***
 
-## **📷 Preview / Vista previa**
+## ** Preview / Vista previa**
 
 *(Aquí puedes añadir una imagen del menú o del código usando `!Alt text`)*
 
 ***
 
-## **📌 Usage / Uso**
+## ** Usage / Uso**
 
 **EN:**  
 Run the program and use the interactive menu to manage your Pokédex.  
@@ -54,8 +54,4 @@ Ejecuta el programa y utiliza el menú interactivo para gestionar tu Pokédex.
 
 ***
 
-## **📄 License / Licencia**
-
-
-***
 
